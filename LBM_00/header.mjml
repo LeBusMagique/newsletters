@@ -1,0 +1,16 @@
+<mj-section>
+
+  <mj-column>
+    <mj-image src="https://outils.lebusmagique.fr/newsletters/images/logo.png" padding="0 0 0 20px" />
+  </mj-column>
+  
+  <mj-column vertical-align="bottom">
+    <mj-text align="right" font-size="14px" line-height="19px" padding-bottom="0" padding-top="20px" color="#fffff0">
+      <strong>Newsletter #00 - Mois Année</strong>
+    </mj-text>
+    <mj-text align="right" font-size="12px" line-height="16px" padding-top="0" color="#fffff0">
+      <a href="[[PERMALINK]]" style="color: inherit;">Voir la version en ligne</a>
+    </mj-text>
+  </mj-column>
+
+</mj-section>

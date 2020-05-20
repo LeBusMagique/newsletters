@@ -1,0 +1,42 @@
+<mjml>
+  <mj-head>
+    <mj-attributes>
+      <mj-text color="#2d2c2c" font-family="Arial, sans-serif" line-height="22px" font-size="16px" />
+      <mj-class name="post-title" font-weight="bold" padding-bottom="0" color="#2d2c2c" />
+      <mj-class name="post-meta" font-size="12px" padding-top="0" />
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#f44336">
+    <!-- En-tête -->
+    <mj-include path="./header.mjml" />
+    <!-- Edito -->
+    <mj-section background-color="#fff">
+      <mj-column>
+        <mj-text>
+          <h2>Édito</h2>
+          <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Isto modo ne improbos quidem, si essent boni viri. <b>Quis istud, quaeso, nesciebat?</b> Utram tandem linguam nescio? Quid, quod res alia tota est? <b>Quare ad ea primum, si videtur;</b> Praeclare enim Plato: Beatum, cui etiam in senectute contigerit, ut sapientiam verasque opiniones assequi possit. </p>
+          <p>Ille vero, si insipiens-quo certe, quoniam tyrannus -, numquam beatus; Vitiosum est enim in dividendo partem in genere numerare. <a href="http://loripsum.net/" target="_blank" style="color: inherit;">Uterque enim summo bono fruitur, id est voluptate.</a> <i>Quae quidem vel cum periculo est quaerenda vobis;</i> Quantum Aristoxeni ingenium consumptum videmus in musicis? </p>
+          <p align="right">&mdash; L'équipe du Bus Magique</p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!-- Derniers articles -->
+    <mj-include path="./posts.mjml" />
+    
+    <!-- Guide du mois -->
+    <mj-include path="./guides.mjml" />
+    
+    <!-- Tipeee -->
+    <mj-include path="./tipeee.mjml" />
+    
+    <!-- Nos vidéos préférées du mois -->
+    <mj-include path="./videos.mjml" />
+    
+    <!-- Publicité -->
+    <mj-include path="./pub.mjml" />
+    
+    <!-- Pied de page -->
+    <mj-include path="./footer.mjml" />
+  </mj-body>
+</mjml>

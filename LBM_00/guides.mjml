@@ -1,0 +1,26 @@
+<!-- Titre de section -->
+<mj-section background-color="#ffffff">
+  <mj-column>
+    <mj-text padding="0" color="#ffffff">
+      <table bgcolor="#f44336" cellpadding="0" cellspacing="0">
+        <tr>
+          <td style="padding: 10px 25px"><strong style="color: #ffffff;">Nos guides du mois</strong></td>
+        </tr>
+      </table>
+    </mj-text>
+  </mj-column>
+</mj-section>
+<!-- Détails de la section -->
+<mj-section background-color="#ffffff" padding-top="0">
+  <mj-column width="225px">
+    <mj-image src="https://outils.lebusmagique.fr/newsletters/00/guide.jpg" padding="0" />
+  </mj-column>
+  <mj-column width="375px">
+    <mj-text>
+      <h3>Préparez la sortie du prochain épisode&nbsp;!</h3>
+      <p>Le 26 mai prochain, sort le nouvel épisode de l'épopée du givre, intitulé&nbsp;: <strong>Pas de quartier&nbsp;!</strong></p>
+      <p>Profitez de cette période d'accalmie pour vous plongez dans nos guides des épisodes précédents, et notamment terminer les métas-succès des <a href="https://www.lebusmagique.fr/pages/gw2-pof/l-epopee-du-givre/frontiere-de-bjora/murmure-dans-la-nuit/" style="color: inherit;">murmures dans la nuit</a>, <a href="https://www.lebusmagique.fr/pages/gw2-pof/l-epopee-du-givre/frontiere-de-bjora/une-ombre-dans-la-glace/" style="color: inherit;">une ombre dans la glace</a> ou dépensez vos lingots d'éitrite et vos éclats de glace éternelle pour <a href="https://www.lebusmagique.fr/pages/gw2-pof/l-epopee-du-givre/sac-32-emplacements-epopee-du-givre.html" style="color: inherit;">fabriquer des sacs</a>.</p>
+      <p><small>Nous en avons aussi profité pour mettre à jour nos guides suivants&nbsp;: <a href="#!" style="color: inherit;">Guide aaa</a>, <a href="#!" style="color: inherit;">Guide bbb</a>, <a href="#!" style="color: inherit;">Guide ccc</a>.</small></p>
+    </mj-text>
+  </mj-column>
+</mj-section>

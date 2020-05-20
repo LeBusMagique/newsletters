@@ -1,0 +1,7 @@
+<mj-hero mode="fluid-height" background-color="#f44336" padding="50px 0px" width="100%">
+  <mj-text padding="20px" color="#ffffff" align="center" font-size="39px" line-height="39px" font-weight="bold"> ❤ MERCI ❤ </mj-text>
+  <mj-text color="#fff" align="center">
+    Vous êtes nombreux chaque mois à soutenir le Bus Magique, que ce soit en nous suivant sur les réseaux sociaux, pendant nos événements ou vous abonnant à notre chaîne Twitch... Alors, merci&nbsp;!</p><p>Et surtout, merci à nos donatrices et donateurs Tipeee du mois du mai&nbsp;: Jolynn.9247, DarkTemplar.3826, Nikopol.1503, Gaha.1625, MadCha.8462, solitude.1489, rousskass.3082, Josharder.2657, Coeur de granite.3071, wacrow.4681, Volokasse.5384, Bruno T., Val.7902, Narou.2638, Lyos.9743.<p>Merci aussi à celles et ceux des mois précédents&nbsp;!</p><p>❤ ❤ ❤</p><p><small>Le gagnant du code de 400 gemmes de mai sur Tipeee&nbsp;:<br />xxx</small></p>
+  </mj-text>
+  <mj-button href="https://www.lebusmagique.fr/pages/infos/soutenir-le-lbm.html" align="center" background-color="#ffffff" color="#f44336" font-weight="bold"> Comment soutenir le Bus Magique&nbsp;? </mj-button>
+</mj-hero>

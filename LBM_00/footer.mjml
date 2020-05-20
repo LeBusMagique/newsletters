@@ -1,0 +1,21 @@
+<!-- Réseaux sociaux -->
+<mj-section>
+  <mj-column>
+    <mj-text padding-bottom="0" align="center" font-size="14px" line-height="19px" color="#fffff0"><strong>Suivez-nous sur les réseaux sociaux&nbsp;!</strong></mj-text>
+    <mj-social font-size="12px" icon-size="20px" mode="horizontal">
+      <mj-social-element href="https://www.lebusmagique.fr" src="https://outils.lebusmagique.fr/newsletters/images/link.png"></mj-social-element>
+      <mj-social-element href="https://fb.me/lebusmagique" src="https://outils.lebusmagique.fr/newsletters/images/facebook.png"></mj-social-element>
+      <mj-social-element href="https://twitter.com/lebusmagique" src="https://outils.lebusmagique.fr/newsletters/images/twitter.png"></mj-social-element>
+      <mj-social-element href="https://www.youtube.com/c/LebusmagiqueFr" src="https://outils.lebusmagique.fr/newsletters/images/youtube.png"></mj-social-element>
+      <mj-social-element href="https://discord.gg/WRFnwph" src="https://outils.lebusmagique.fr/newsletters/images/discord.png"></mj-social-element>
+      <mj-social-element href="https://twitch.tv/lebusmagique" src="https://outils.lebusmagique.fr/newsletters/images/twitch.png"></mj-social-element>
+      <mj-social-element href="https://www.instagram.com/lebusmagiquelbm/" src="https://outils.lebusmagique.fr/newsletters/images/instagram.png"></mj-social-element>
+    </mj-social>
+  </mj-column>
+</mj-section>
+<!-- Désabonnement -->
+<mj-section>
+  <mj-column>
+    <mj-text align="center" font-size="12px" line-height="16px" color="#fffff0"> Cet e-mail a été envoyé à [[EMAIL_TO]], <a href="[[UNSUB_LINK_FR]]" style="color: inherit;">cliquez ici</a> pour vous désabonner. </mj-text>
+  </mj-column>
+</mj-section>
